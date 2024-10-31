@@ -1,0 +1,49 @@
+{
+    "urls": [
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬线路"
+        },                      
+        {
+            "url": "http://肥猫.com/",
+            "name": "肥猫线路"
+        },  
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王二小线路"
+        },    
+       {
+    
+          "url": "http://ttkx.live:55/天天开心"
+          "name": "天天开心",
+      },
+      {
+            "url": "http://itvbox.cc/云星日记",
+            "name": "云星日记线路"
+        },   
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "潇洒线路"
+        },     
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高天流云线路"
+        },    
+        {
+      "name": "PG(影视专用)",
+      "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json"
+        }, 
+       {
+      "name": "PizazzGY",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
+       },
+      {
+      "name": "😎短剧",
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+      },
+      {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅晴线路"
+        }
+     ]   
+}   
