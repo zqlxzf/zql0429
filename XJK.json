@@ -1,130 +1,51 @@
- {
-    "urls":[ 
-      {
-           "url":"http://itvbox.cc/云星日记",
-            "name":"云星日记"
-         },  
-         {
-           "url":"http://ok321.top/tv",
-            "name":"OK"
-         }, 
-        {
-           "url":"http://www.饭太硬.com/tv3️",
-            "name":"饭太硬"
-         },  
-        {
-           "url":"https://tv.菜妮丝.top",
-            "name":"莱妮丝"
-         },  
-        {
-           "url":"http://www.mpanso.com/小米/DEMO.json",
-            "name":"小米"
-         },  
-        {
-           "url":"https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
-            "name":"欧哥"
-         },  
-         {
-           "url":"https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",            
-          "name":"胜寒"
-         },  
-        {
-           "url":"http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name":"王小二放牛娃"
-         },  
-        {
-           "url":"http://39.101.135.137:8080/",
-            "name":"小白龙"
-         },  
-        {
-           "url":"https://fmbox.cc",
-            "name":"星辰"
-         },  
-        {
-           "url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/zikai/myy/raw/source/main2.json?ref=master&access_token=1fd5f16cb05fd894542e781550f9c1528e2f46a1",
-            "name":"瑶瑶"
-         },  
-        {
-           "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VI.json?ref_type=heads&inline=false",
-            "name":"志元"
-         }
-    ]
+{
+"urls": [{
+"url": "http://itvbox.cc/云星日记",
+"name": "云星日记"
+},
+{
+"url": "http://ok321.top/tv",
+"name": "OK"
+},
+{
+"url": "http://www.饭太硬.com/tv3️",
+"name": "饭太硬"
+},
+{
+"url": "https://tv.菜妮丝.top",
+"name": "莱妮丝"
+},
+{
+"url": "http://www.mpanso.com/小米/DEMO.json",
+"name": "小米"
+},
+{
+"url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+"name": "欧哥"
+},
+{
+"url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
+"name": "胜寒"
+},
+{
+"url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+"name": "王小二放牛娃"
+},
+{
+"url": "http://39.101.135.137:8080/",
+"name": "小白龙"
+},
+{
+"url": "https://fmbox.cc",
+"name": "星辰"
+},
+{
+"url": "https://cdn09022024.gitlink.org.cn/api/v1/repos/zikai/myy/raw/source/main2.json?ref=master&access_token=1fd5f16cb05fd894542e781550f9c1528e2f46a1",
+"name": "瑶瑶"
+},
+{
+"url": "https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-VI.json?ref_type=heads&inline=false",
+"name": "志元"
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
+]
+}

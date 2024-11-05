@@ -1,64 +1,31 @@
 
 {
     "urls":[
+       
         {
-            "name":"😏小米",
-            "url":"http://xhww.fun/小米/DEMO.json"
-        },
+            "url":"http://www.饭太硬.com/tv",
+            "name":"🏆饭太硬"
+         },  
+         {
+            "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Sw.json",
+        "name":"👌黎歌"
+         }, 
+         {
+            "url":"http://肥猫.com/",
+           "name":"😊肥猫"
+        }, 
         {
-            "name":"🏆潇洒",
-            "url":"https://cn.kstore.space/download/2863/01.txt"
-        },
-        {
-            "name":"🏆饭太硬",
-            "url":"http://www.饭太硬.com/tv"
-        },
-        {
-            "name":"👌黎歌",
-            "url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Sw.json"
-        },
-        {
-            "name":"😊肥猫",
-            "url":"http://肥猫.com/"
-        },
-        {
-            "name":"❤️PizazzGY",
-            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json"
-        },
-
-        {
-            "name":"😎短剧",
-            "url":"http://74.120.175.78/JK/XYQTVBox/dj.json"
-        },
-        {
-            "name":"😏放牛",
-            "url":"https://9280.kstore.space/wex.json"
-        },
+  "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", 
+           "name":"❤️PizazzGY"
+         },
         {
             "name":"🌹OK猫影(3533弹幕)",
             "url":"http://ok321.top/tv"
         },
-      {
+        {
             "name":"👌摸鱼",
             "url":"http://我不是.摸鱼儿.com"
         },
-        {
-            "name":"😏无界",
-            "url":"https://www.xn--rgv465a.top/无界线路禁止贩卖"
-        },
-      {
-            "name":"🌹天薇",
-            "url":"https://gitee.com/tvkj/tw/raw/main/svip.json"
-        },
-         {
-            "name":"🌹蜂蜜",
-            "url":"https:/d.kstore.space/download/6446/fmys.json"
-        },
-        {
-            "name":"😏乐享汇",
-            "url":"https://ghproxy.net/raw.githubusercontent.com/lxhfans/fans/main/jsm.json"
-        },
-       
         {
             "name":"🙈菜妮丝",
             "url":"https://tv.xn--yhqu5zs87a.top"
@@ -71,17 +38,9 @@
             "name":"🐼真心(影视专用)",
             "url":"http://www.xueximeng.com/z/FongMi.json"
         },
-     {
+        {
             "name":"💓道长",
             "url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
-        },
-        {
-            "name":"🌪挺好分享",
-            "url":"http://ztha.top/TVBox/thdjk.json"
-        },
-        {
-            "name":"💖环宇",
-            "url":"https://gitee.com/hyxuan_admin/xnf/raw/master/xnf.json"
         },
         {
             "name":"🌟天天开心",
