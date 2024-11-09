@@ -4,21 +4,49 @@
             "url": "http://www.饭太硬.com/tv",
             "name": "饭太硬线路"
         },                      
-       
+        {
+            "url": "http://肥猫.com/",
+            "name": "肥猫线路"
+        },    
+        {
+          "url": "http://www.mpanso.com/小米/DEMO.json",
+          "name": "小米"
+        },
         {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "王二小线路"
         },    
-   
+       {
+         "url": "http://itvbox.cc/云星日记",
+        "name": "云星日记"
+       },
       {
+         "url": "https://tv.菜妮丝.top",
+         "name": "莱妮丝"
+       },
+       {
             "url": "http://itvbox.cc/云星日记",
             "name": "云星日记线路"
         },   
-    
         {
-       "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-       "name": "PG(影视专用)"
- }
-    
- ]   
+            "url": "https://ok321.top/ok",
+            "name": "📱OK线路"
+       },
+      {
+          "url": "http://cdn.qiaoji8.com/tvbox.json",
+          "name": "🔮巧记接口🔮"
+      },  
+      {
+            "name":"🐼真心(影视专用)",
+            "url":"http://www.xueximeng.com/z/FongMi.json"
+       },  
+       {
+           "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+           "name": "PG(影视专用)"
+       },
+       {
+            "name":"😎短剧",
+            "url":"http://74.120.175.78/JK/XYQTVBox/dj.json"
+        }
+   ]   
 }   
