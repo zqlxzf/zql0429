@@ -17,10 +17,14 @@ CCTV14 少儿,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m
 CCTV15 音乐,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
 CCTV16 奥林匹克,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
 CCTV17 农业农村,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
-凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
+凤凰中文,http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
+凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192
+凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191
+凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
+凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
+凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
 CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
 CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
@@ -74,7 +78,7 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 安多卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000064
 厦门卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000058
 康巴卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000066
-大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
+大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 
 🇨🇳  精选频道,#genre#
 纪实人文,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000528
@@ -87,7 +91,7 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 卡酷少儿,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000040
 金鹰卡通,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000039
 金鹰纪实,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000074
-快乐垂钓,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8
+快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 茶友频道,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
@@ -109,8 +113,8 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 
 🇨🇳 NewTV频道,#genre#
 超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
-超级电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426
-超级体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010063/1.m3u8
+超级电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
+超级体育,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 超级综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
 爱情喜剧,http://[2409:8087:5e00:24::1e]:6060/000000001000/8393829412396288037/1.m3u8
 东北热剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000092/index.m3u8?
@@ -129,11 +133,62 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 明星大片,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019008/1.m3u8
 欢乐剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000091/index.m3u8?
 精品萌宠,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000122/index.m3u8?
-金牌综艺,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000026167/1.m3u8
+金牌综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000112
 炫舞未来,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000515/1.m3u8
 怡伴健康,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
 
-上海频道,#genre#
+🇨🇳  iHOT频道,#genre#
+爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
+爱科幻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
+爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
+爱浪漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
+爱悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
+爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
+爱历史,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
+爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
+爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
+爱玩具,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
+爱赛车,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
+爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
+爱奇谈,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
+爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
+精彩影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
+
+🇨🇳河南地方,#genre#
+河南都市,http://live.nctv.top/6688/hntv.php?id=hnds
+河南民生,http://live.nctv.top/6688/hntv.php?id=hnms
+河南新闻,http://live.nctv.top/6688/hntv.php?id=hnxw
+河南电视剧,http://live.nctv.top/6688/hntv.php?id=hndsj
+河南公共,http://live.nctv.top/6688/hntv.php?id=hngg
+河南乡村,http://live.nctv.top/6688/hntv.php?id=hnxc
+河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
+梨园频道,http://live.nctv.top/6688/hntv.php?id=hnly
+文物宝库,http://live.nctv.top/6688/hntv.php?id=wwbk
+武术世界,http://live.nctv.top/6688/hntv.php?id=wspd
+睛彩中原,http://live.nctv.top/6688/hntv.php?id=jczy
+象视界,http://live.nctv.top/6688/hntv.php?id=xsj
+收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
+中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u8
+郑州新闻综合,http://live.nctv.top/6688/hntv.php?id=zz1
+开封新闻综合,http://live.nctv.top/6688/hntv.php?id=kf1
+洛阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ly1
+平顶山新闻综合,http://live.nctv.top/6688/hntv.php?id=pds1
+安阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ay1
+鹤壁新闻综合,http://live.nctv.top/6688/hntv.php?id=hb1
+新乡新闻综合,http://live.nctv.top/6688/hntv.php?id=xx1
+焦作新闻综合,http://live.nctv.top/6688/hntv.php?id=jz1
+濮阳新闻综合,http://live.nctv.top/6688/hntv.php?id=py1
+许昌新闻综合,http://live.nctv.top/6688/hntv.php?id=xc1
+漯河新闻综合,http://live.nctv.top/6688/hntv.php?id=lh1
+三门峡新闻综合,http://live.nctv.top/6688/hntv.php?id=smx1
+南阳新闻综合,http://live.nctv.top/6688/hntv.php?id=ny1
+商丘新闻综合,http://live.nctv.top/6688/hntv.php?id=sq1
+信阳新闻综合,http://live.nctv.top/6688/hntv.php?id=xy1
+周口新闻综合,http://live.nctv.top/6688/hntv.php?id=zk1
+驻马店新闻综合,http://live.nctv.top/6688/hntv.php?id=zmd1
+济源新闻综合,http://live.nctv.top/6688/hntv.php?id=jy1
+🇨🇳上海频道,#genre#
 上海新闻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IAS,httpSessionId=OTT19019320240419154124000281
 上海都市,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IAS,httpSessionId=OTT19019320240419154124000281
 上海外语,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IAS,httpSessionId=OTT19019320240419154124000281
@@ -143,7 +198,7 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IAS,httpSessionId=OTT19019320240419154124000281
 法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IAS,httpSessionId=OTT19019320240419154124000281
 第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IAS,httpSessionId=OTT19019320240419154124000281
-浙江频道,#genre#
+🇨🇳浙江频道,#genre#
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -152,7 +207,22 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-内蒙频道,#genre#
+🇨🇳山东频道,#genre#
+山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=
+山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=
+山东新闻,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8?IASHttpSessionId=
+山东农科,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8?IASHttpSessionId=
+山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
+山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000375/index.m3u8?IASHttpSessionId=
+山东文旅,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8?IASHttpSessionId=
+山东文旅,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000377/index.m3u8?IASHttpSessionId=
+山东生活,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000336/index.m3u8?IASHttpSessionId=
+山东综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000338/index.m3u8?IASHttpSessionId=
+山东综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000378/index.m3u8?IASHttpSessionId=
+山东齐鲁,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=
+山东教育卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId=
+山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000400/index.m3u8?IASHttpSessionId=
+🇨🇳内蒙频道,#genre#
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
@@ -166,8 +236,7 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-
-海南频道,#genre#
+🇨🇳海南频道,#genre#
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
