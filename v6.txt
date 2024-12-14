@@ -1,160 +1,167 @@
 ﻿ 🇨🇳  央视频道,#genre#
-CCTV1 综合,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
-CCTV2 财经,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000502
-CCTV3 综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000003
-CCTV4 中文国际,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503
-CCTV5 体育,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000005
-CCTV5+ 体育赛事,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000507
-CCTV6 电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000006
-CCTV7 国防军事,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000504
-CCTV8 电视剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000008
-CCTV9 纪录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000505
-CCTV10 科教,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000506
-CCTV11 戏曲,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508
-CCTV12 社会与法,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000509
-CCTV13 新闻,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
-CCTV14 少儿,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000511
-CCTV15 音乐,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512
-CCTV16 奥林匹克,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
-CCTV17 农业农村,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
-CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
-纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
-凤凰中文,http://prettyalan.vicp.cc:8888/udp/239.61.5.48:1025
-凤凰中文,http://yujukoo.gicp.net:8888/udp/239.93.0.162:2192
-凤凰资讯,http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191
-凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
-凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
+CCTV1,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000501/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV2,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000502/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV3,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000003/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV4,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV5,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000005/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV5+,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000507/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV6,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000006/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV7,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000504/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV8,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV9,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000505/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV10,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV11,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV12,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV13,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV14,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV15,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV16,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CCTV17,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+凤凰资讯,https://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰中文,https://cdn3.132.us.kg/live/fhzw/stream.m3u8
 凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC影迷电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-CETV1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId=
-CETV2,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
-CETV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
-CGTN英语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IASHttpSessionId=
-CGTN纪录,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000353/index.m3u8?IASHttpSessionId=
-CGTN俄语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000357/index.m3u8?IASHttpSessionId=
-CGTN法语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000355/index.m3u8?IASHttpSessionId=
-CGTN西班牙语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000354/index.m3u8?IASHttpSessionId=
-CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000356/index.m3u8?IASHttpSessionId=
-
+CHC动作电影,http://61.138.167.36:9901/tsfile/live/1014_1.m3u8
+CHC影迷电影,http://61.138.167.36:9901/tsfile/live/1015_1.m3u8
+CHC家庭影院,http://61.138.167.36:9901/tsfile/live/1016_1.m3u8
+CCTV第一剧场,http://majian.ixiaobai.net:5540/rtp/239.37.0.78:5540
+CCTV怀旧剧场,http://majian.ixiaobai.net:5540/rtp/239.37.0.82:5540
+CCTV风云剧场,http://majian.ixiaobai.net:5540/rtp/239.37.0.114:5540
+CCTV风云足球,http://majian.ixiaobai.net:5540/rtp/239.37.0.80:5540
+CCTV电视指南,http://majian.ixiaobai.net:5540/rtp/239.37.0.115:5540
+CCTV女性时尚,http://majian.ixiaobai.net:5540/rtp/239.37.0.69:5540
+CCTV世界地理,http://majian.ixiaobai.net:5540/rtp/239.37.0.79:5540
+CCTV风云音乐,http://majian.ixiaobai.net:5540/rtp/239.37.0.81:5540
+CCTV央视文化精品,http://majian.ixiaobai.net:5540/rtp/239.37.0.83:5540
+CCTV兵器科技,http://majian.ixiaobai.net:5540/rtp/239.37.0.84:5540
+CCTV央视台球,http://majian.ixiaobai.net:5540/rtp/239.37.0.163:5540
+CCTV高尔夫网球,http://majian.ixiaobai.net:5540/rtp/239.37.0.230:5540
+CGTN,http://[2409:8087:74f0:22::5]:6610/000000001000/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=3
+CGTN,记录http://[2409:8087:74f0:22::5]:6410/270000001128/9900000062/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+CGTN,俄语http://[2409:8087:74f0:22::5]:6610/000000001000/1000000006000280004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280004&livemode=1&stbId=3
+CGTN,法语http://[2409:8087:74f0:22::5]:6610/000000001000/1000000006000280003/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280003&livemode=1&stbId=3
+CGTN,西语http://[2409:8087:74f0:22::5]:6610/000000001000/1000000006000280002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280002&livemode=1&stbId=3
+CGTN,阿语http://[2409:8087:74f0:22::5]:6610/000000001000/1000000006000280001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000280001&livemode=1&stbId=3
+CETV-1,http://[2409:8087:74f0:22::5]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+CETV-2,http://[2409:8087:74f0:22::5]:6610/000000001000/1000000005000266004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266004&livemode=1&stbId=3
+CETV-4,http://[2409:8087:74f0:22::5]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3  
 🇨🇳  卫视频道,#genre#
-
-北京卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000516
-湖南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000523
-东方卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000518
-四川卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000025
-天津卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000530
-安徽卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000514
-山东卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000527
-深圳卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000529
-广东卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000520
-广西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000034
-江苏卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000524
-江西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000525
-河北卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000057
-河南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000027
-浙江卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000531
-海南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000037
-湖北卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000522
-山西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000053
-东南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000519
-贵州卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000036
-辽宁卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000526
-重庆卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000517/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000517
-黑龙江卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000521
+北京卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+湖南卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000523/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+东方卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000518/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+四川卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000025/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+天津卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+安徽卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+山东卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000527/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+深圳卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+广东卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000520/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+广西卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000034/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+江苏卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000524/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+江西卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+河北卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000057/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+河南卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000027/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+浙江卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000531/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+海南卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000037/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+湖北卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000522/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+山西卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000053/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+东南卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000519/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+贵州卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000036/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+辽宁卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+重庆卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000517/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+黑龙江卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000521/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-宁夏卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000047
-陕西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000026
-吉林卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000030
-甘肃卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000023
-云南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000035
+宁夏卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000047/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+陕西卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000026/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+吉林卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+甘肃卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000023/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+云南卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000035/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-青海卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000042
-新疆卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000045
-西藏卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000043
+青海卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000042/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+新疆卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000045/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+西藏卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000043/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 延边卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266008/1.m3u8
-安多卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000064
-厦门卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000058
-康巴卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000066
+安多卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000064/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+厦门卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000058/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+康巴卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000066/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
-
 🇨🇳  精选频道,#genre#
-纪实人文,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000528
-纪实科教,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000515
+纪实人文,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000528/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+纪实科教,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000515/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IAS,httpSessionId=OTT19019320240419154124000281
 乐游频道,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 欢笑剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8
 都市剧场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
-卡酷少儿,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000040
-金鹰卡通,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000039
-金鹰纪实,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000074
+卡酷少儿,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000040/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+金鹰卡通,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000039/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+金鹰纪实,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000074/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
 茶友频道,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
-嘉佳卡通,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000061
-哒啵赛事,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000097
-哒啵电竞,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000121
-优漫卡通,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000070
-哈哈炫动,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000069
-黑莓动画,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000096
-黑莓电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000095
+嘉佳卡通,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000061/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+哒啵赛事,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000097/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+哒啵电竞,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000121/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+优漫卡通,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000070/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+哈哈炫动,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000069/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+黑莓动画,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000096/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+黑莓电影,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000095/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IAS,httpSessionId=OTT19019320240419154124000281
 求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IAS,httpSessionId=OTT19019320240419154124000281
 求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IAS,httpSessionId=OTT19019320240419154124000281
 求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IAS,httpSessionId=OTT19019320240419154124000281
-睛彩竞技,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000119
-睛彩篮球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000118
-睛彩青少,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000120
-睛彩广场舞,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000532
+睛彩竞技,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+睛彩篮球,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000118/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+睛彩青少,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000120/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
+睛彩广场舞,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000532/index.m3u8?channel-id=newtv&livemode=4&Contentid=0
 
 🇨🇳 NewTV频道,#genre#
-超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
-超级电影,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000003000012426/index.m3u8?channel-id=ystenlive&Contentid=1000000003000012426&livemode=1&stbId=3
-超级体育,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
-超级综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
-爱情喜剧,http://[2409:8087:5e00:24::1e]:6060/000000001000/8393829412396288037/1.m3u8
-东北热剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000092/index.m3u8?
-海外剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010121/1.m3u8
-动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
-古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
-中国功夫,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000101/index.m3u8?
-军旅剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000107/index.m3u8?
-惊悚悬疑,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000113/index.m3u8?
-潮妈辣婆,http://[2409:8087:5e00:24::1e]:6060/000000001000/6516734029835465177/1.m3u8
-精品体育,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000102/index.m3u8?
-精品纪录,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000109/index.m3u8?
-家庭剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000108/index.m3u8?
-精品大剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000100/index.m3u8?
-军事评论,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000110/index.m3u8?
-明星大片,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019008/1.m3u8
-欢乐剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000091/index.m3u8?
-精品萌宠,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000122/index.m3u8?
-金牌综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000112/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000112
-炫舞未来,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000000515/1.m3u8
-怡伴健康,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
-
+超级电影,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000021/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+超级电视剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000022/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+爱情喜剧,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000104/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+动作电影,http://[2409:8087:74f0:22::11]:6410/270000001128/9900000106/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+海外剧场,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000115/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+古装剧场,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000105/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+家庭剧场,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000108/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+惊悚悬疑,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000113/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+精品大剧,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000100/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+军旅剧场,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000107/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+明星大片,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000116/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+欢乐剧场,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000091/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+东北热剧,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000092/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+潮妈辣婆,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000099/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+中国功夫,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000101/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+农业致富,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000111/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+军事评论,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000110/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+怡伴健康,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000103/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+精品综合,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000116/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+炫舞未来,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000098/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+金牌综艺,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000112/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+超级综艺,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000019/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+精品记录,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000109/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+精品萌宠,http://[2409:8087:74f0:22::9]:6410/270000001128/9900000122/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+精品体育,http://[2409:8087:74f0:22::10]:6410/270000001128/9900000102/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+超级体育,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000020/1.m3u8?channel-id=newtv&livemode=4&Contentid=0
+魅力潇湘,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000006197/1.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=3
+热播精选,http://[2409:8087:5e08:24::4]:6610/000000001000/7681593242002292003/index.m3u8?IASHttpSessionId=RR234220241124101142987699&ispcode=4
+武博世界,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=3
+精彩影视,http://[2409:8087:74f0:22::4]:6410/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
 🇨🇳  iHOT频道,#genre#
-爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-爱科幻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-爱浪漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-爱悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-爱历史,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-爱玩具,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-爱赛车,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-爱奇谈,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
-精彩影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281
-
+iHOT 爱谍战,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000070630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=IPTV
+iHOT 爱动漫,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000280630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=IPTV
+iHOT 爱科幻,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000020630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=IPTV
+iHOT 爱科学,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000160630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=IPTV
+iHOT 爱浪漫,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000040630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=IPTV
+iHOT 爱历史,http://[2409:8087:74f0:22::4]:6410/000000001000/6610/000000001000/6000000006000150630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=IPTV
+iHOT 爱旅行,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000250630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=IPTV
+iHOT 爱奇谈,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000270630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=IPTV
+iHOT 爱赛车,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000240630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=IPTV
+iHOT 爱体育,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000290630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=IPTV
+iHOT 爱玩具,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000220630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=IPTV
+iHOT 爱喜剧,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000010630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=IPTV
+iHOT 爱悬疑,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000050630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=IPTV
+iHOT 爱幼教,http://[2409:8087:74f0:22::4]:6410/000000001000/6610/000000001000/6000000006000180630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=IPTV
+iHOT 爱院线,http://[2409:8087:74f0:22::4]:6410/000000001000/6000000006000030630/1.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=IPTV
 🇨🇳河南地方,#genre#
 河南都市,http://live.nctv.top/6688/hntv.php?id=hnds
 河南民生,http://live.nctv.top/6688/hntv.php?id=hnms
@@ -207,21 +214,7 @@ CGTN阿拉伯语,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-🇨🇳山东频道,#genre#
-山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=
-山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=
-山东新闻,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000314/index.m3u8?IASHttpSessionId=
-山东农科,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000339/index.m3u8?IASHttpSessionId=
-山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000340/index.m3u8?IASHttpSessionId=
-山东少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000375/index.m3u8?IASHttpSessionId=
-山东文旅,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000337/index.m3u8?IASHttpSessionId=
-山东文旅,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000377/index.m3u8?IASHttpSessionId=
-山东生活,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000336/index.m3u8?IASHttpSessionId=
-山东综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000338/index.m3u8?IASHttpSessionId=
-山东综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000378/index.m3u8?IASHttpSessionId=
-山东齐鲁,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000313/index.m3u8?IASHttpSessionId=
-山东教育卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000331/index.m3u8?IASHttpSessionId=
-山东体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000400/index.m3u8?IASHttpSessionId=
+
 🇨🇳内蒙频道,#genre#
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
