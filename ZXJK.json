@@ -22,11 +22,6 @@
             "name": "王二小线路"
         },    
       {
-       "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-       "name": "王小二放牛娃"
-      },  
-
-      {
          "url": "https://tv.菜妮丝.top",
          "name": "莱妮丝"
        },
@@ -65,7 +60,7 @@
             "name": "🔥喵影线路"
         },
         {
-            "url": "https://tv.youdu.fan:666/短剧频道/api.json",
+            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
             "name": "🎯短剧频道"
         },
         {
@@ -90,11 +85,11 @@
        },  
        {
            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-           "name": "PG(影视专用)"
+           "name": "😎PG(影视专用)"
        },
        {
-            "name":"😎短剧",
-            "url":"http://74.120.175.78/JK/XYQTVBox/dj.json"
+            "name":"少儿接口",
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
         }
    ]   
 }   
