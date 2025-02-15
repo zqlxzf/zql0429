@@ -9,18 +9,26 @@
             "name": "肥猫线路"
         },    
         {
-            "url": "http://rihou.cc:55/天天开心",
-            "name": "💝在线日后💝天天开心"
+            "url": "http://kxrj.site:55/天天开心",
+            "name": "天天开心"
       },
       {
-          "url": "http://www.mpanso.com/小米/DEMO.json",
+          "url": "https://mpanso.me/DEMO.json",
           "name": "小米"
         },
-      
+      {
+         "url": "http://www.fish2018.us.kg/p/jsm.json",
+         "name": "🚀PG线路"
+       },
        {
             "url": "http://tvbox.王二小放牛娃.top",
             "name": "王二小线路"
         },    
+      {
+       "url": "http://tv.999888987.xyz",
+       "name": "王小二放牛娃"
+      },  
+
       {
          "url": "https://tv.菜妮丝.top",
          "name": "莱妮丝"
@@ -35,14 +43,17 @@
           "name": "🔮巧记接口🔮"
       },  
       {
-            "url": "http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌",
+            "url": "https://xn--bjjb-rp5imh.v.nxog.top/apitv.php?id=1",
             "name": "📱欧歌线路"
       },
      {
         "url": "https://raw.bgithub.xyz/hanhan8127/TVBox/main/hanXC.json",
         "name": "胜寒"
       },
-
+      {
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "PG"
+        },
       {
         "url": "https://fmbox.cc",
         "name": "星辰"
@@ -60,7 +71,7 @@
             "name": "🔥喵影线路"
         },
         {
-            "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json",
+            "url": "https://tv.youdu.fan:666/短剧频道/api.json",
             "name": "🎯短剧频道"
         },
         {
@@ -85,11 +96,11 @@
        },  
        {
            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-           "name": "😎PG(影视专用)"
+           "name": "PG(影视专用)"
        },
        {
-            "name":"少儿接口",
-            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
+            "name":"😎短剧",
+            "url":"http://74.120.175.78/JK/XYQTVBox/dj.json"
         }
    ]   
 }   
