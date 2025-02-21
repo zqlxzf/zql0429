@@ -89,9 +89,9 @@ CGTN西语,http://huawei.636191.xyz:50001/TVOD/1000000006000280002/ystenlive/ind
 CETV1,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
 CETV2,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
 CETV4,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140
-CETV1,http://home.sunruilin.com:4443/udp/239.93.1.111:5140
-CETV2,http://home.sunruilin.com:4443/udp/239.93.0.113:5140
-CETV4,http://home.sunruilin.com:4443/udp/239.93.0.50:5140
+CETV1,http://huawei.636191.xyz:50001/TVOD/5000000002000002652/bestzb/index.m3u8?ace
+CETV2,http://huawei.636191.xyz:50001/TVOD/2000000003000000047/hnbblive/index.m3u8?ace
+CETV4,http://huawei.636191.xyz:50001/TVOD/5000000011000031126/bestzb/index.m3u8?ace
 CEC国际汉语,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
@@ -99,7 +99,7 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国天气,http://huawei.636191.xyz:50001/TVOD/5000000005000031974/bestzb/index.m3u8?ace
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 JJ斗地主,http://dns.yiandrive.com:15907/huya/14079954
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
@@ -140,6 +140,7 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 北京卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000031556/bestzb/index.m3u8?ace
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 兵团卫视,http://huawei.636191.xyz:50001/TVOD/1000000005000266005/ystenlive/index.m3u8?ace
+东方卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000014098/bestzb/index.m3u8?ace
 东南卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000010584/bestzb/index.m3u8?ace
 甘肃卫视,http://huawei.636191.xyz:50001/TVOD/5000000011000031121/bestzb/index.m3u8?ace
 广东卫视,http://huawei.636191.xyz:50001/TVOD/5000000004000014694/bestzb/index.m3u8?ace
