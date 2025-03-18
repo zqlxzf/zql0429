@@ -133,7 +133,52 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 重庆卫视,http://124.93.18.238:9003//hls/24/index.m3u8
 
 
-
+🐉短剧频道,#genre#
+逆命神医(96集),https://vd3.bdstatic.com/mda-peds8afg0055s0nh/720p/h264/1684091269327297304/mda-peds8afg0055s0nh.mp4
+满月之下请相爱(100集),https://vd3.bdstatic.com/mda-pedkenasrhs239n2/sc/cae_h264/1684169079399702313/mda-pedkenasrhs239n2.mp4
+落在生命里的光(100集),https://vd3.bdstatic.com/mda-pedgk34za4i2wsk4/720p/h264/1684066802676530455/mda-pedgk34za4i2wsk4.mp4
+老街中的痞子(79集),https://vd3.bdstatic.com/mda-pedd0pjr3d230d6a/sc/cae_h264/1684151422563021066/mda-pedd0pjr3d230d6a.mp4
+绝世龙帅(100集),https://vd3.bdstatic.com/mda-pectb75a7wb5zsgu/720p/h264/1684008093774139159/mda-pectb75a7wb5zsgu.mp4
+浪子情仇(81集),https://vd3.bdstatic.com/mda-pecpz9ti97u1z825/720p/h264/1683998885326452646/mda-pecpz9ti97u1z825.mp4
+昆仑强者(80集),https://vd3.bdstatic.com/mda-peck0hfux97mrc79/720p/h264/1683988862148442153/mda-peck0hfux97mrc79.mp4
+都市药王医仙（61集）,https://vd4.bdstatic.com/mda-pe9p7t88g3zwkn0w/sc/cae_h264/1683812630561498452/mda-pe9p7t88g3zwkn0w.mp4
+功夫医圣（80集）,https://vd2.bdstatic.com/mda-pe9qn6dabh5ppc6w/720p/h264/1683740514742579726/mda-pe9qn6dabh5ppc6w.mp4
+古董风云（50集）,https://vd2.bdstatic.com/mda-pe9r3itz1thdrm9i/sc/cae_h264/1683796097451505310/mda-pe9r3itz1thdrm9i.mp4
+九境霸主（113集）,https://vd2.bdstatic.com/mda-peasdcyvjkdf5nn6/720p/h264/1683833678473112939/mda-peasdcyvjkdf5nn6.mp4
+逆袭1990 ,https://vd3.bdstatic.com/mda-pic27fqea6gxshu3/sc/cae_h264/1694576577838370273/mda-pic27fqea6gxshu3.mp4
+总裁老公身边的真假千金,https://vd4.bdstatic.com/mda-piaru4rz4ea5d3jr/sc/cae_h264/1694527130409630365/mda-piaru4rz4ea5d3jr.mp4
+豪门战尊,https://vd4.bdstatic.com/mda-pi947rkiaa76hy2m/sc/cae_h264/1694346919481540355/mda-pi947rkiaa76hy2m.mp4
+顶级豪门太子爷,https://vd3.bdstatic.com/mda-pi8hhbg56uhtbkxt/sc/cae_h264/1694293569901543683/mda-pi8hhbg56uhtbkxt.mp4
+我的老婆是特工,https://vd3.bdstatic.com/mda-pi8hginfpu0srhru/720p/h264/1694269051746088241/mda-pi8hginfpu0srhru.mp4
+顾少你的老婆找到了,https://vd3.bdstatic.com/mda-pi72zwkq28kxci62/sc/cae_h264/1694217756500480165/mda-pi72zwkq28kxci62.mp4
+魔幻手机之重回2003,https://vd3.bdstatic.com/mda-pi72kjkh3bibqvfc/sc/cae_h264/1694215643936724842/mda-pi72kjkh3bibqvfc.mp4
+离婚后冷爷他知错了,https://vd3.bdstatic.com/mda-pi6scbgcwrd7r2zr/sc/cae_h264/1694210199261123829/mda-pi6scbgcwrd7r2zr.mp4
+迟来的心动,https://vd3.bdstatic.com/mda-pi5r0s19mnefdk88/sc/cae_h264/1694074495316287456/mda-pi5r0s19mnefdk88.mp4
+巾帼神豪(95集),https://txmov2.a.kwimgs.com/bs3/video-hls/5228679273869081590_hlsb.m3u8
+绝世医仙(93集),https://txmov2.a.kwimgs.com/bs3/video-hls/5251760220360466164_hlsb.m3u8
+上门豪婿(94集),https://txmov2.a.kwimgs.com/bs3/video-hls/5226145996125317106_hlsb.m3u8
+富豪老公同学会(114集),https://txmov2.a.kwimgs.com/bs3/video-hls/5222205348866063631_hlsb.m3u8
+狂飙风暴(88集),https://vd4.bdstatic.com/mda-pe9mfch4kg5gyf3s/sc/cae_h264/1683788994589438440/mda-pe9mfch4kg5gyf3s.mp4
+都市最强继承者(100集),https://txmov2.a.kwimgs.com/bs3/video-hls/5232619920811866768_hlsb.m3u8
+赘婿归来(101集),https://vd3.bdstatic.com/mda-pevb0xbdxkqavidi/720p/h264/1685433516028971486/mda-pevb0xbdxkqavidi.mp4
+我有神仙微信群(81集),https://txmov2.a.kwimgs.com/bs3/video-hls/5189272774546429629_hlsb.m3u8
+巨富同学会(100集),https://txmov2.a.kwimgs.com/bs3/video-hls/5238249422970059143_hlsb.m3u8
+天骄医婿(102集),https://vd4.bdstatic.com/mda-pe7qsxras8c7mpx0/sc/cae_h264/1683613152590699530/mda-pe7qsxras8c7mpx0.mp4
+霸爱为奴(100集),https://vd4.bdstatic.com/mda-pe89k65is9xdwqen/sc/cae_h264/1683667911711262079/mda-pe89k65is9xdwqen.mp4
+都市逍遥神医(93集),https://vd4.bdstatic.com/mda-pe9f7u2qj8qi7r04/720p/h264/1683716481871424650/mda-pe9f7u2qj8qi7r04.mp4
+桃运无双(105集),https://vd3.bdstatic.com/mda-pefd0weush6t8bnx/sc/cae_h264/1684372449915872808/mda-pefd0weush6t8bnx.mp4
+双面狂少(83集),https://vd3.bdstatic.com/mda-pefcbtfwri86zgq2/sc/cae_h264/1684371888342144388/mda-pefcbtfwri86zgq2.mp4
+圣王(100集),https://vd3.bdstatic.com/mda-peeuh83guh46806g/sc/cae_h264/1684290562908896240/mda-peeuh83guh46806g.mp4
+天龙战神(94集),https://vd3.bdstatic.com/mda-pefi3w616b8ujr88/720p/h264/1684243271973602840/mda-pefi3w616b8ujr88.mp4
+历少强势锁婚(100集),https://vd3.bdstatic.com/mda-pegcxruwk0cxswv8/720p/h264/1684317268225808680/mda-pegcxruwk0cxswv8.mp4
+仙武帝尊(78集),https://vd3.bdstatic.com/mda-pejcehn295ndg53i/720p/h264/1684573445328231835/mda-pejcehn295ndg53i.mp4
+无尽轮回游戏(90集),https://vd3.bdstatic.com/mda-pejauu70iv7rhhim/sc/cae_h264/1684756063120101443/mda-pejauu70iv7rhhim.mp4
+五万存款当首富(98集),https://vd3.bdstatic.com/mda-peitxirv8yxvmu8y/sc/cae_h264/1684702979466568288/mda-peitxirv8yxvmu8y.mp4
+我在会所当赘婿(96集),https://vd3.bdstatic.com/mda-peir5pkh2d6rir68/sc/cae_h264/1684702706339253199/mda-peir5pkh2d6rir68.mp4
+《龙年大吉之衣锦还乡》,https://ikcdn01.ikzybf.com/20240219/DSEJuK59
+本宫要你好看,https://vd3.bdstatic.com/mda-pg54pjtymbbskr6x/360p/h264/1688615253650776568/mda-pg54pjtymbbskr6x.mp4
+逍遥阎君,https://vd3.bdstatic.com/mda-pg54ph80hs9v9urb/360p/h264/1688615178175086103/mda-pg54ph80hs9v9urb.mp4
+139.226.78.215:5000
 
 
 NewTV频道,#genre#
