@@ -1,23 +1,5 @@
 央视频道,#genre#
 
-CCTV1,http://124.93.18.238:9003//hls/1/index.m3u8
-CCTV2,http://124.93.18.238:9003//hls/2/index.m3u8
-CCTV3,http://124.93.18.238:9003//hls/3/index.m3u8
-CCTV4,http://124.93.18.238:9003//hls/4/index.m3u8
-CCTV5,http://124.93.18.238:9003//hls/5/index.m3u8
-CCTV5+,http://124.93.18.238:9003//hls/18/index.m3u8
-CCTV6,http://124.93.18.238:9003//hls/6/index.m3u8
-CCTV7,http://124.93.18.238:9003//hls/7/index.m3u8
-CCTV8,http://124.93.18.238:9003//hls/8/index.m3u8
-CCTV9,http://124.93.18.238:9003//hls/9/index.m3u8
-CCTV10,http://124.93.18.238:9003//hls/10/index.m3u8
-CCTV11,http://124.93.18.238:9003//hls/11/index.m3u8
-CCTV12,http://124.93.18.238:9003//hls/12/index.m3u8
-CCTV13,http://124.93.18.238:9003//hls/13/index.m3u8
-CCTV14,http://124.93.18.238:9003//hls/14/index.m3u8
-CCTV15,http://124.93.18.238:9003//hls/15/index.m3u8
-CCTV16,http://124.93.18.238:9003//hls/16/index.m3u8
-CCTV17,http://124.93.18.238:9003//hls/17/index.m3u8
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -34,8 +16,9 @@ CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
 CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV16,http://36.105.100.208:35455/gaoma/cctv16.m3u8
 CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
-CCTV16,http://91.216.190.250:51002/TVOD/1000000006000233002/ystenlive/index.m3u8
+
 
 CCTV1,http://goo.bkpcp.top/mg/cctv1
 CCTV2,http://goo.bkpcp.top/mg/cctv2
@@ -53,7 +36,7 @@ CCTV12,http://goo.bkpcp.top/mg/cctv12
 CCTV13,http://goo.bkpcp.top/mg/cctv13
 CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV15,http://goo.bkpcp.top/mg/cctv15
-CCTV16,http://213.210.4.41:50001/TVOD/1000000006000233001/ystenlive/index.m3u8
+CCTV16,http://47.242.229.105:35455/gaoma/cctv16.m3u8
 CCTV17,http://goo.bkpcp.top/mg/cctv17
 CCTV4K,http://36.105.100.208:35455/gaoma/cctv4k.m3u8
 央视2025春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
@@ -65,9 +48,7 @@ CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿拉伯语,https://0472.org/hls/cgtna.m3u8
 CGTN,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8?
 CGTN纪录,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8?
-CETV1,http://171.213.220.181:8088/udp/239.93.1.111:5140
-CETV2,http://171.213.220.181:8088/udp/239.93.0.113:5140
-CETV4,http://171.213.220.181:8088/udp/239.93.0.133:5140
+
 CETV1,http://www.lizhinas.top:1009/rtp/239.252.220.198:5140
 CETV2,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
 CETV4,http://www.lizhinas.top:1009/rtp/239.252.219.169:5140 
@@ -115,40 +96,9 @@ JJ斗地主,http://huanqiuzhibo.cn/manifest/douyu.php?id=488743
 浙江卫视,http://1527s519b9.imwork.net:9019/hls/31/index.m3u8
 重庆卫视,http://1527s519b9.imwork.net:9019/hls/47/index.m3u8
 
-安徽卫视,http://124.93.18.238:9003//hls/29/index.m3u8
-北京卫视,http://124.93.18.238:9003//hls/21/index.m3u8
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-东南卫视,http://124.93.18.238:9003//hls/23/index.m3u8
-甘肃卫视,http://124.93.18.238:9003//hls/49/index.m3u8
-广东卫视,http://124.93.18.238:9003//hls/34/index.m3u8
-广西卫视,http://124.93.18.238:9003//hls/35/index.m3u8
-贵州卫视,http://124.93.18.238:9003//hls/31/index.m3u8
-海南卫视,http://124.93.18.238:9003//hls/41/index.m3u8
-河北卫视,http://124.93.18.238:9003//hls/38/index.m3u8
-河南卫视,http://124.93.18.238:9003//hls/39/index.m3u8
-黑龙江卫视,http://124.93.18.238:9003//hls/51/index.m3u8
-湖北卫视,http://124.93.18.238:9003//hls/36/index.m3u8
-湖南卫视,http://124.93.18.238:9003//hls/30/index.m3u8
-吉林卫视,http://124.93.18.238:9003//hls/47/index.m3u8
-江苏卫视,http://124.93.18.238:9003//hls/28/index.m3u8
-江西卫视,http://124.93.18.238:9003//hls/37/index.m3u8
-辽宁卫视,http://124.93.18.238:9003//hls/19/index.m3u8
+
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-内蒙古卫视,http://124.93.18.238:9003//hls/45/index.m3u8
-宁夏卫视,http://124.93.18.238:9003//hls/46/index.m3u8
-青海卫视,http://124.93.18.238:9003//hls/42/index.m3u8
-厦门卫视,http://124.93.18.238:9003//hls/53/index.m3u8
-山东卫视,http://124.93.18.238:9003//hls/32/index.m3u8
-山西卫视,http://124.93.18.238:9003//hls/33/index.m3u8
-陕西卫视,http://124.93.18.238:9003//hls/44/index.m3u8
-深圳卫视,http://124.93.18.238:9003//hls/52/index.m3u8
-四川卫视,http://124.93.18.238:9003//hls/40/index.m3u8
-天津卫视,http://124.93.18.238:9003//hls/22/index.m3u8
-西藏卫视,http://124.93.18.238:9003//hls/50/index.m3u8
-新疆卫视,http://124.93.18.238:9003//hls/48/index.m3u8
-云南卫视,http://124.93.18.238:9003//hls/43/index.m3u8
-浙江卫视,http://124.93.18.238:9003//hls/27/index.m3u8
-重庆卫视,http://124.93.18.238:9003//hls/24/index.m3u8
+
 
 
 🐉短剧频道,#genre#
