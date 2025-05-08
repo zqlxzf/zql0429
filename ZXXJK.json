@@ -22,7 +22,10 @@
 {"name":"🔥码点小干货","url":"http://mdxgh.tpddns.cn:9999/mdkdb.json" }
 {"name":"👌黎歌","url":"https://gitlab.com/dokiss1/tvbox/-/raw/master/doki-Sw.json"},
 {"name":"😎短剧", "url":"http://box.ufuzi.com/tv/qq/短剧频道/api.json" },
-{ "name":"🐱动漫频道", "url": "https:www.yingm.cc/dm/dm.json" }
+{"name":"小虎斑", "url":"https://hb.xyyh.online/tvbox/" },
+{"name":"小苹果", "url":"https://bitbucket.org/xduo/duoapi/raw/master/xpg.json" },
+{"name":"短剧📚在线", "url":"https://电.影.top" },
+ { "name":"🐱动漫频道", "url": "https:www.yingm.cc/dm/dm.json" }
 ]
 
 }
