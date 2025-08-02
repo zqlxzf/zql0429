@@ -44,8 +44,6 @@ CCTV1,http://49.235.65.250:600/miguHD.php?id=CCTV1
 CCTV2,http://49.235.65.250:600/miguHD.php?id=CCTV2
 CCTV3,http://49.235.65.250:600/miguHD.php?id=CCTV3
 CCTV4,http://49.235.65.250:600/miguHD.php?id=CCTV4
-CCTV4欧洲,http://49.235.65.250:600/miguHD.php?id=CCTV4o
-CCTV4美洲,http://49.235.65.250:600/miguHD.php?id=CCTV4
 CCTV5,http://49.235.65.250:600/miguHD.php?id=CCTV5
 CCTV5+,http://49.235.65.250:600/miguHD.php?id=CCTV5p
 CCTV6,http://49.235.65.250:600/miguHD.php?id=CCTV6
@@ -546,6 +544,7 @@ IPTV淘BABY,http://masiqi.myqnapcloud.com:4022/udp/239.3.1.238:8001
 《龙年大吉之衣锦还乡》,https://ikcdn01.ikzybf.com/20240219/DSEJuK59
 本宫要你好看,https://vd3.bdstatic.com/mda-pg54pjtymbbskr6x/360p/h264/1688615253650776568/mda-pg54pjtymbbskr6x.mp4
 逍遥阎君,https://vd3.bdstatic.com/mda-pg54ph80hs9v9urb/360p/h264/1688615178175086103/mda-pg54ph80hs9v9urb.mp4
+
 
 
 
