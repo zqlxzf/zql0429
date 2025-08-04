@@ -2,62 +2,53 @@
 	"urls": [
 
   {
-	"url": "http://tv.nxog.top/m/"，
+	"url": "http://tv.nxog.top/m/",
 	"name": "📱欧歌"
 }，
 	
-		{
-			"name": "📱OK"，
-			"url": "https:ok321.top/ok"，
-		},
-		
-	
-		{
+ {		
+	"url": "https:ok321.top/ok"，
+	"name": "📱OK"
+}，
+{
+	"url": "http:tv.laohu.cool/tvbox.json"，
+	"name": "🔥老虎"
+}，
+{
+	"url": "https://6492.kstore.space/xnf/xnf.json"，
+	"name": "环宇轩"
+}，
+{
 			
-			"url": "http:tv.laohu.cool/tvbox.json"，
-		"name": "🔥老虎"
-},
-		
-		
-		{
+	"url": "https://tv.菜妮丝.top"，
+	"name": "🏆莱妮丝"
+}，
+{
 			
-			"url": "https://6492.kstore.space/xnf/xnf.json"，
-		"name": "环宇轩"
-},
-		{
+	"url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json"，
+	"name": "时光机"
+}，
+{
+	"url": "http://74.120.175.78/JK/XYQTVBox/dj.json"，
+	"name": "短剧1"
+}，
+{
+	"url": "https://4708.kstore.space/DJ/dj.json"，
+	"name": "短剧2"
+}，
+{
 			
-			"url": "https://tv.菜妮丝.top"，
-		"name": "🏆莱妮丝"
-},
-		{
-			
-			"url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json"，
-		"name": "时光机"
-},
-		{
-			
-			"url": "http://74.120.175.78/JK/XYQTVBox/dj.json"，
-		"name": "短剧1"
-},
-		{
-			
-			"url": "https://4708.kstore.space/DJ/dj.json"，
-		"name": "短剧2"
-},
-		{
-			
-			"url": "http://hucongrong.web3v.work/短剧.json"，
-		"name": "短剧3"
-},
-		{
-			
-			"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"，
-		"name": "😎短剧"
+         "url": "http://hucongrong.web3v.work/短剧.json"，
+	"name": "短剧3"
+}，
+{
+	"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"，
+	"name": "😎短剧"
 }
 		
 
-
-	]
+]
 
 }
+
 
