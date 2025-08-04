@@ -1,63 +1,76 @@
-{"urls": [
-  
-{"name": "📱欧歌","url": "http://tv.nxog.top/m/"},
-{"name": "👍饭硬","url": "http:www.饭太硬.com/tv"},
-{"name": "👿肥猫","url": "http://肥猫.com/"},
-{"name": "📱OK","url": "https:ok321.top/ok"},
-{"name": "🐂放牛娃","url": "http://tvbox.王二小放牛娃.top"},
-{"name": "摸鱼","url": "http://我不是.摸鱼儿.com"},
-{"name": "📱巧计","url": "http:cdn.qiaoji8.com/tvbox.json"},
-{"name": "🔥老虎","url": "http:tv.laohu.cool/tvbox.json"},
-{"name": "📱小马","url": "https:szyyds.cn/tv/x.json"},
-{"name": "环宇轩","url": "https://6492.kstore.space/xnf/xnf.json"},
-{"name": "🏆莱妮丝","url": "https://tv.菜妮丝.top"},   
-{"name": "时光机","url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json" },
- { "name": "短剧1", "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"},           
-  {"name": "短剧2","url": "https://4708.kstore.space/DJ/dj.json"},          
-    {"name": "短剧3", "url": "http://hucongrong.web3v.work/短剧.json"},     
-  {"name":"😎短剧", "url":"http://box.ufuzi.com/tv/qq/短剧频道/api.json" },
-{"name":"小虎斑", "url":"https://hb.xyyh.online/tvbox/" }
+{
+	"urls": [
+
+		{
+			"name": "📱欧歌"，
+			"url": "http://tv.nxog.top/m/"
+		},
+		{
+			"name": "👍饭硬"，
+			"url": "http:www.饭太硬.com/tv"
+		},
+		{
+			"name": "👿肥猫"，
+			"url": "http://肥猫.com/"
+		}，
+		{
+			"name": "📱OK"，
+			"url": "https:ok321.top/ok"
+		},
+		{
+			"name": "🐂放牛娃",
+			"url": "http://tvbox.王二小放牛娃.top"
+		},
+		{
+			"name": "摸鱼",
+			"url": "http://我不是.摸鱼儿.com"
+		},
+		{
+			"name": "📱巧计",
+			"url": "http:cdn.qiaoji8.com/tvbox.json"
+		},
+		{
+			"name": "🔥老虎",
+			"url": "http:tv.laohu.cool/tvbox.json"
+		},
+		{
+			"name": "📱小马",
+			"url": "https:szyyds.cn/tv/x.json"
+		},
+		{
+			"name": "环宇轩",
+			"url": "https://6492.kstore.space/xnf/xnf.json"
+		},
+		{
+			"name": "🏆莱妮丝",
+			"url": "https://tv.菜妮丝.top"
+		},
+		{
+			"name": "时光机",
+			"url": "https://raw.gitmirror.com/bestpvp/tm/main/source/stable/main.json"
+		},
+		{
+			"name": "短剧1",
+			"url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
+		},
+		{
+			"name": "短剧2",
+			"url": "https://4708.kstore.space/DJ/dj.json"
+		},
+		{
+			"name": "短剧3",
+			"url": "http://hucongrong.web3v.work/短剧.json"
+		},
+		{
+			"name": "😎短剧",
+			"url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json"
+		},
+		{
+			"name": "小虎斑",
+			"url": "https://hb.xyyh.online/tvbox/"
+		}
 
 
-]
+	]
 
 }
- 
-        
-           
-            
-             
-      
-             
-            
-            
-      
-            
-            
-                
-       
-             
-            
-       
-     
-        
-            
-            
-       ,
-     
-   
-      
-      
-            
-           
-       
-        
-
-
-
-
-
-
-
-
-
