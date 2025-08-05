@@ -41,12 +41,7 @@
       "url": "https://hb.xyyh.online/tvbox/", 
       "name": "小虎斑单线"
     }, 
-    {
-      "url": "http://rihou.cc:99/荷城茶秀", 
-      "name": "📱荷城茶秀"
-    }, 
-    
-    {
+   {
       "url": "https://6492.kstore.space/xnf/xnf.json", 
       "name": "环宇轩单线"
     }, 
@@ -81,14 +76,7 @@
     {
       "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", 
       "name": "😎短剧专线"
-    }, 
-    {
-      "url": "https://tv.youdu.fan:666/短剧频道/api.json", 
-      "name": "🎯短剧频道"
-    }, 
-    {
-      "url": "https://gitee.com/blssss/mzjk/raw/master/vip.json", 
-      "name": "儿童教育"
     }
   ]
+
 }
