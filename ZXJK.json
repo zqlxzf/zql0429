@@ -41,10 +41,7 @@
       "url": "https://hb.xyyh.online/tvbox/", 
       "name": "小虎斑单线"
     }, 
-   {
-      "url": "https://6492.kstore.space/xnf/xnf.json", 
-      "name": "环宇轩单线"
-    }, 
+  
     {
       "url": "https://fmbox.cc", 
       "name": "玉玉线路"
@@ -66,8 +63,8 @@
       "name": "七星单线"
     }, 
    {
-      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json", 
-      "name": "🎯香雅情短剧"
+      "url": "https://play.iptv365.org/短剧频道/api.json", 
+      "name": "🎯短剧频道"
     }, 
     {
       "url": "http://hucongrong.web3v.work/短剧.json", 
@@ -80,3 +77,4 @@
   ]
 
 }
+
