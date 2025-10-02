@@ -46,6 +46,9 @@ CCTV4K,http://123.160.108.7:6610/PLTV1/190059/1.m3u8?icpid=dxrm1
 CHC家庭影院,http://kent.dzzkent.top:4022/udp/234.1.3.6:5000
 CHC动作电影,http://kent.dzzkent.top:4022/udp/234.1.3.7:5000
 CHC影迷电影,http://kent.dzzkent.top:4022/udp/234.1.3.9:5000
+CHC家庭影院,http://aklim.f3322.net:18885/rtp/239.45.0.40:5140
+CHC动作电影,http://aklim.f3322.net:18885/rtp/239.45.0.41:5140
+CHC影迷电影,http://aklim.f3322.net:18885/rtp/239.45.0.42:5140
 CCTV怀旧剧场,http://pr.19760929.xyz:9688/udp/239.253.43.5:5146
 CCTV风云音乐,http://pr.19760929.xyz:9688/udp/239.253.43.6:5146
 CCTV世界地理,http://pr.19760929.xyz:9688/udp/239.253.43.7:5146
@@ -442,6 +445,7 @@ IPTV淘BABY,http://masiqi.myqnapcloud.com:4022/udp/239.3.1.238:8001
 《龙年大吉之衣锦还乡》,https://ikcdn01.ikzybf.com/20240219/DSEJuK59
 本宫要你好看,https://vd3.bdstatic.com/mda-pg54pjtymbbskr6x/360p/h264/1688615253650776568/mda-pg54pjtymbbskr6x.mp4
 逍遥阎君,https://vd3.bdstatic.com/mda-pg54ph80hs9v9urb/360p/h264/1688615178175086103/mda-pg54ph80hs9v9urb.mp4
+
 
 
 
