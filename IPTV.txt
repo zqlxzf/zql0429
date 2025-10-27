@@ -15,7 +15,7 @@ CCTV12,http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
 CCTV13,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
 CCTV14,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV15,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
-CCTV16,http://www.hkyc.site:1991/udp/239.253.64.251:5140
+CCTV16,http://ymz.stkeyu.top:8303/rtp/239.77.0.165:5146
 CCTV17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV2,https://40.130519.xyz/PLTV/11/224/3221226122/index.m3u8?
@@ -442,6 +442,7 @@ IPTV淘BABY,http://masiqi.myqnapcloud.com:4022/udp/239.3.1.238:8001
 《龙年大吉之衣锦还乡》,https://ikcdn01.ikzybf.com/20240219/DSEJuK59
 本宫要你好看,https://vd3.bdstatic.com/mda-pg54pjtymbbskr6x/360p/h264/1688615253650776568/mda-pg54pjtymbbskr6x.mp4
 逍遥阎君,https://vd3.bdstatic.com/mda-pg54ph80hs9v9urb/360p/h264/1688615178175086103/mda-pg54ph80hs9v9urb.mp4
+
 
 
 
