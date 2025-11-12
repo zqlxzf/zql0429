@@ -17,6 +17,24 @@ CCTV14,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV15,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
 CCTV16,http://ymz.stkeyu.top:8303/rtp/239.77.0.165:5146
 CCTV17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
+CCTV1,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMS9pbmRleC5tM3U4
+CCTV2,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMi9pbmRleC5tM3U4
+CCTV3,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMy9pbmRleC5tM3U4
+CCTV4,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNC9pbmRleC5tM3U4
+CCTV5,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNS9pbmRleC5tM3U4
+CCTV5+,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1016
+CCTV6,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNi9pbmRleC5tM3U4
+CCTV7,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvNy9pbmRleC5tM3U4
+CCTV8,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvOC9pbmRleC5tM3U4
+CCTV9,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=live1009
+CCTV10,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvOS9pbmRleC5tM3U4
+CCTV11,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTAvaW5kZXgubTN1OA==
+CCTV12,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTEvaW5kZXgubTN1OA==
+CCTV13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTIvaW5kZXgubTN1OA==
+CCTV14,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTMvaW5kZXgubTN1OA==
+CCTV15,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTQvaW5kZXgubTN1OA==
+CCTV16,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY1cC5tM3U4
+CCTV17,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTUvaW5kZXgubTN1OA==
 CCTV1,http://pr.19760929.xyz:9688/udp/239.77.1.17:5146
 CCTV2,http://pr.19760929.xyz:9688/udp/239.77.1.158:5146
 CCTV3,http://pr.19760929.xyz:9688/udp/239.77.0.169:5146
@@ -117,6 +135,27 @@ JJ斗地主,https://lunbo.freetv.top/douyu/488743
 云南卫视,http://219.150.217.47:6610/PLTV1/1320/index.m3u8?icpid=dxrm1
 浙江卫视,http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
 重庆卫视,http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
+
+安徽卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=ahws
+北京卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=bjws
+东方卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=dfws
+甘肃卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=gsws
+广西卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=gxws
+贵州卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=gzws
+河北卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=hebeiws
+河南卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=hnws
+湖南卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=hunanws
+吉林卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=jlws
+江苏卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=jsws
+辽宁卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=lnws
+宁夏卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=linxws
+山西卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=sxws
+陕西卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=shxws
+深圳卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=szws
+四川卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=scws
+天津卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=tjws
+西藏卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=xzws
+浙江卫视,http://www.kaniptv.cn/mk.php?ip=node-111-20-163-124.speedtest.cn:8001&id=zjws
 
 安徽卫视,http://pr.19760929.xyz:9688/udp/239.77.1.92:5146
 北京卫视,http://pr.19760929.xyz:9688/udp/239.77.1.4:5146
@@ -442,6 +481,7 @@ IPTV淘BABY,http://masiqi.myqnapcloud.com:4022/udp/239.3.1.238:8001
 《龙年大吉之衣锦还乡》,https://ikcdn01.ikzybf.com/20240219/DSEJuK59
 本宫要你好看,https://vd3.bdstatic.com/mda-pg54pjtymbbskr6x/360p/h264/1688615253650776568/mda-pg54pjtymbbskr6x.mp4
 逍遥阎君,https://vd3.bdstatic.com/mda-pg54ph80hs9v9urb/360p/h264/1688615178175086103/mda-pg54ph80hs9v9urb.mp4
+
 
 
 
