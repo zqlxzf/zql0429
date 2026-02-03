@@ -15,7 +15,7 @@ CCTV12,http://219.150.217.47:6610/PLTV1/260/index.m3u8?icpid=dxrm1
 CCTV13,http://219.150.217.47:6610/PLTV1/280/index.m3u8?icpid=dxrm1
 CCTV14,http://219.150.217.47:6610/PLTV1/300/index.m3u8?icpid=dxrm1
 CCTV15,http://219.150.217.47:6610/PLTV1/320/index.m3u8?icpid=dxrm1
-CCTV16,http://ymz.stkeyu.top:8303/rtp/239.77.0.165:5146
+CCTV16,http://hiliu.myds.me:18088/udp/239.69.1.249:11136
 CCTV17,http://219.150.217.47:6610/PLTV1/360/index.m3u8?icpid=dxrm1
 CCTV4K超高清,http://123.160.108.7:6610/PLTV1/190059/1.m3u8?icpid=dxrm1
 
@@ -23,29 +23,29 @@ CCTV4K超高清,http://123.160.108.7:6610/PLTV1/190059/1.m3u8?icpid=dxrm1
 凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
-凤凰中文,http://www.dwphic.com:9999/udp/239.69.2.20:11274
-凤凰资讯,http://www.dwphic.com:9999/udp/239.69.2.19:11268
+凤凰中文,http://hiliu.myds.me:18088/udp/239.69.2.20:11274
+凤凰资讯,http://hiliu.myds.me:18088/udp/239.69.2.19:11268
 凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
 CHC影迷电影,http://jason.25u.com:40222/udp/239.81.0.240:4056
 CHC动作电影,http://jason.25u.com:40222/udp/239.81.0.239:4056
 CHC家庭影院,http://jason.25u.com:40222/udp/239.81.0.238:4056
-CCTV怀旧剧场,http://pr.19760929.xyz:9688/rtp/239.253.43.5:5146
-CCTV风云音乐,http://pr.19760929.xyz:9688/rtp/239.253.43.6:5146
-CCTV世界地理,http://pr.19760929.xyz:9688/rtp/239.253.43.7:5146
-CCTV女性时尚,http://pr.19760929.xyz:9688/rtp/239.253.43.8:5146
-CCTV兵器科技,http://pr.19760929.xyz:9688/rtp/239.253.43.9:5146
-CCTV电视指南,http://pr.19760929.xyz:9688/rtp/239.253.43.10:5146
-CCTV央视台球,http://pr.19760929.xyz:9688/rtp/239.253.43.11:5146
-CCTV高尔夫网球,http://pr.19760929.xyz:9688/rtp/239.253.43.12:5146
-CCTV央视文化精品,http://pr.19760929.xyz:9688/rtp/239.253.43.13:5146
-CCTV风云足球,http://pr.19760929.xyz:9688/rtp/239.253.43.14:5146
-CCTV第一剧场,http://pr.19760929.xyz:9688/rtp/239.253.43.15:5146
-CCTV风云剧场,http://pr.19760929.xyz:9688/rtp/239.253.43.16:5146
-CCTV卫生健康,http://pr.19760929.xyz:9688/rtp/239.77.0.212:5146
+CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+CCTV风云音乐,http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
+CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CCTV电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/bqkj.m3u8?auth=testpub
+CCTV高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV央视文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
+
 CETV1,http://jason.25u.com:40222/udp/239.81.0.92:4056
 CETV2,http://jason.25u.com:40222/udp/239.81.0.245:4056
 CETV4,http://jason.25u.com:40222/udp/239.81.0.188:4056
-CETV早期教育,http://pr.19760929.xyz:9688/rtp/239.77.1.114:5146
+
 CETV1,http://219.150.217.47:6610/PLTV1/400/index.m3u8?icpid=dxrm1
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
@@ -58,12 +58,11 @@ CEC国际汉语,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-JJ斗地主,http://lxajh.top/tv/douyu.php?id=488743
 JJ斗地主,http://live.ottiptv.cc/douyu/488743
 🇨🇳  卫视频道,#genre#
 安徽卫视,http://219.150.217.47:6610/PLTV1/1100/index.m3u8?icpid=dxrm1
 北京卫视,http://219.150.217.47:6610/PLTV1/1020/index.m3u8?icpid=dxrm1
-兵团卫视,http://pr.19760929.xyz:9688/rtp/239.77.1.29:5146
+兵团卫视,http://hiliu.myds.me:18088/rtp/239.69.2.32:11346
 东方卫视,http://219.150.217.47:6610/PLTV1/980/index.m3u8?icpid=dxrm1
 东南卫视,http://219.150.217.47:6610/PLTV1/1400/index.m3u8?icpid=dxrm1
 甘肃卫视,http://219.150.217.47:6610/PLTV1/1500/index.m3u8?icpid=dxrm1
@@ -95,26 +94,32 @@ JJ斗地主,http://live.ottiptv.cc/douyu/488743
 浙江卫视,http://219.150.217.47:6610/PLTV1/960/index.m3u8?icpid=dxrm1
 重庆卫视,http://219.150.217.47:6610/PLTV1/1340/index.m3u8?icpid=dxrm1
 其他频道,#genre#
-欢笑剧场,http://www.yeqi.eu.org:4000/udp/233.50.201.189:5140
-都市剧场,http://www.yeqi.eu.org:4000/udp/233.50.201.190:5140
-法制天地,http://www.yeqi.eu.org:4000/udp/233.50.201.191:5140
-动漫秀场,http://www.yeqi.eu.org:4000/udp/233.50.201.184:5140
-游戏风云,http://www.yeqi.eu.org:4000/udp/233.50.201.183:5140
-乐游,http://www.yeqi.eu.org:4000/udp/233.50.201.185:5140
-金色学堂,http://www.yeqi.eu.org:4000/udp/233.50.201.186:5140
-生活时尚,http://www.yeqi.eu.org:4000/udp/233.50.201.187:5140
-茶频道,http://www.yeqi.eu.org:4000/udp/233.50.201.188:5140
-快乐垂钓,http://www.yeqi.eu.org:4000/udp/233.50.201.109:5140
-睛彩竞技,http://www.yeqi.eu.org:4000/udp/233.50.202.26:5140
-睛彩篮球,http://www.yeqi.eu.org:4000/udp/233.50.202.27:5140
-睛彩青少,http://www.yeqi.eu.org:4000/udp/233.50.202.28:5140
-睛彩广场舞,http://www.yeqi.eu.org:4000/udp/233.50.202.29:5140
-卡酷少儿,http://www.yeqi.eu.org:4000/udp/233.50.200.166:5140
-哈哈炫动,http://www.yeqi.eu.org:4000/udp/233.50.200.167:5140
-金鹰卡通,http://www.yeqi.eu.org:4000/udp/233.50.201.73:5140
-东方财经,http://www.yeqi.eu.org:4000/udp/233.50.200.177:5140
-第一财经,http://www.yeqi.eu.org:4000/udp/233.50.200.125:5140
-环球旅游,http://www.yeqi.eu.org:4000/udp/233.50.202.31:5140
+欢笑剧场 4K,http://hiliu.myds.me:18088/udp/239.69.2.5:11184
+都市剧场,http://hiliu.myds.me:18088/udp/239.69.2.4:11178
+生活时尚,http://hiliu.myds.me:18088/udp/239.69.2.11:11220
+东方财经,http://hiliu.myds.me:18088/udp/239.69.2.9:11208
+法制天地,http://hiliu.myds.me:18088/udp/239.69.2.10:11214
+金色学堂,http://hiliu.myds.me:18088/udp/239.69.2.13:11232
+乐游,http://hiliu.myds.me:18088/udp/239.69.2.12:11226
+游戏风云,http://hiliu.myds.me:18088/udp/239.69.2.8:11202
+动漫秀场,http://hiliu.myds.me:18088/udp/239.69.2.6:11190
+卡酷少儿,http://hiliu.myds.me:18088/udp/239.69.1.193:10800
+金鹰卡通,http://hiliu.myds.me:18088/udp/239.69.1.248:11130
+金鹰纪实,http://hiliu.myds.me:18088/udp/239.69.1.109:10292
+茶频道,http://hiliu.myds.me:18088/udp/239.69.1.144:10500
+快乐垂钓,http://hiliu.myds.me:18088/udp/239.69.1.142:10488
+先锋乒羽,http://hiliu.myds.me:18088/udp/239.69.1.143:10494
+梨园频道,http://hiliu.myds.me:18088/udp/239.69.1.33:9838
+文物宝库,http://hiliu.myds.me:18088/udp/239.69.1.46:9916
+武术世界,http://hiliu.myds.me:18088/udp/239.69.1.47:9922
+环球奇观,http://hiliu.myds.me:18088/udp/239.254.96.192:9232
+新动漫,http://hiliu.myds.me:18088/udp/239.69.1.187:10764
+财富天下,http://hiliu.myds.me:18088/udp/239.254.96.210:9340
+国学频道,http://hiliu.myds.me:18088/udp/239.254.96.194:9244
+四海钓鱼,http://hiliu.myds.me:18088/udp/239.69.1.244:11106
+书画频道,http://hiliu.myds.me:18088/udp/239.69.1.189:10776
+汽摩,http://hiliu.myds.me:18088/udp/239.69.1.84:10144
+中华特产,http://hiliu.myds.me:18088/udp/239.69.2.18:11262
 纪实科教,http://222.85.25.226/PLTV/88888888/224/3221227250/index.m3u8
 金鹰纪实,http://222.85.25.226/PLTV/88888888/224/3221227154/index.m3u8
 东方财经,http://222.85.25.226/PLTV/88888888/224/3221227141/index.m3u8
@@ -409,6 +414,7 @@ IPTV淘BABY,http://masiqi.myqnapcloud.com:4022/udp/239.3.1.238:8001
 《龙年大吉之衣锦还乡》,https://ikcdn01.ikzybf.com/20240219/DSEJuK59
 本宫要你好看,https://vd3.bdstatic.com/mda-pg54pjtymbbskr6x/360p/h264/1688615253650776568/mda-pg54pjtymbbskr6x.mp4
 逍遥阎君,https://vd3.bdstatic.com/mda-pg54ph80hs9v9urb/360p/h264/1688615178175086103/mda-pg54ph80hs9v9urb.mp4
+
 
 
 
