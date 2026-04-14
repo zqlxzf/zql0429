@@ -77,7 +77,7 @@ CEC国际旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 CEC国际教育,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 CEC国际健康,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 中国天气,http://home.amucn.net:8800/udp/239.49.0.94:8000
-JJ斗地主,https://live.iill.top/bilibili/22021983
+
 JJ斗地主,https://goodiptv.club/douyu/488743
 JJ斗地主,https://douyu.zql0429.us.ci/488743
 点掌财经,https://volcanopull.aniu.tv/live/aniu2/index.m3u8
