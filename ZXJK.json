@@ -55,22 +55,6 @@
         {
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀14-无意线路"
-        }, 
-    {
-      "url": "http://mzrjk.top/唱戏", 
-      "name": "戏曲接口"
-    }, 
-    {
-      "url": "http://mzrjk.top/听歌", 
-      "name": "音乐接口"
-    }, 
-  {
-      "url": "http://jiduo.3116598.xyz", 
-      "name": "🎯集多短剧"
-    }， 
-    {
-      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json", 
-      "name": "😎短剧专线"
-    }
+        }
     ]
 }
