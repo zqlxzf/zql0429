@@ -1,24 +1,24 @@
 {
     "urls": [
         {
-            "url": "http://肥猫.com",
-            "name": "🚀1-肥猫"
+            "url": "http://肥猫.net",
+            "name": "👿1-肥猫"
         },
         {
             "url": "http://fty.xxooo.cf/tv",
-            "name": "🚀2-饭太硬推荐"
+            "name": "👹2-饭太硬推荐"
         },
           {
             "url": "http://xhztv.top/4k.json",
-            "name": "🚀3-小盒子4K"
+            "name": "📱3-小盒子4K"
         },
         {
             "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
             "name": "🚀4-健康家用"
         },
         {
-            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-            "name": "🚀5-王二小"
+            "url": "https://9280.kstore.vip/newwex.json",
+            "name": "👿5-王二小"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
@@ -37,8 +37,8 @@
             "name": "🚀9-欧歌4K"
         },
         {
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀10-高天流云js"
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "🚀10-小苹果接口"
         },
         {
             "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
@@ -55,6 +55,22 @@
         {
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀14-无意线路"
-        }
+        }, 
+    {
+      "url": "http://mzrjk.top/唱戏", 
+      "name": "戏曲接口"
+    }, 
+    {
+      "url": "http://mzrjk.top/听歌", 
+      "name": "音乐接口"
+    }, 
+  {
+      "url": "http://jiduo.3116598.xyz", 
+      "name": "🎯集多短剧"
+    }， 
+    {
+      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json", 
+      "name": "😎短剧专线"
+    }
     ]
 }
