@@ -1,89 +1,60 @@
 {
-  "urls": [
-    
-    {
-      "url": "http://www.饭太硬.net/tv", 
-      "name": "👹饭太硬线路"
-    }, 
-     {
-      "url": "http://我不是.摸鱼儿.xyz", 
-      "name": "🌊摸鱼儿线路"
-    },  
-    {
-      "url": "http://肥猫.net/", 
-      "name": "👿肥猫线路"
-    }, 
-     {
-      "url": "https://9280.kstore.vip/newwex.json", 
-      "name": "👿放牛线路"
-    }, 
-  {
-      "url": "http://cdn.qiaoji8.com/tvbox.json", 
-      "name": "📱巧计线路"
-    }, 
-    {
-      "url": "https://mitvbox.xyz/小米/DEMO.json", 
-      "name": "🔥小米线路"
-    }, 
-   {
-      "url": "https://xn--anna-wn6lw489o.v.nxog.top/m/", 
-      "name": "📱欧歌单仓"
-    }, 
-    {
-      "url": "http://ok321.top/tv", 
-      "name": "📱OK线路"
-    }, 
-    {
-      "url": "https://tv.菜妮丝.top", 
-      "name": "菜妮丝单仓"
-    }, 
-    {
-      "url": "http://hb.小虎斑.site:25252/仅供测试", 
-      "name": "小虎斑单线"
-    }, 
-  
-    {
-      "url": "https://gitee.com/wynp/ys/raw/master/yc.json", 
-      "name": "如意接口"
-    }, 
-    {
-      "url": "https://9877.kstore.space/AnotherD/api.json", 
-      "name": "👹潇洒单线"
-    }, 
-    {
-      "url": "https://7337.kstore.vip/qxys/禁止传播.json", 
-      "name": "七星单线"
-    }, 
-    {
-      "url": "https://www.252035.xyz/z/FongMi.json", 
-      "name": "真心接口"
-    }, 
-   {
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"， 
-      "name": "小苹果接口"
-    }, 
-    {
-      "url": "http://mzrjk.top/唱戏", 
-      "name": "戏曲接口"
-    }, 
-    {
-      "url": "http://mzrjk.top/听歌", 
-      "name": "音乐接口"
-    }, 
-  
-    {
-      "url": "http://jiduo.3116598.xyz", 
-      "name": "🎯集多短剧"
-    }， 
-    {
-      "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json", 
-      "name": "😎短剧专线"
-    }
-  ]
-
+    "urls": [
+        {
+            "url": "http://肥猫.com",
+            "name": "🚀1-肥猫"
+        },
+        {
+            "url": "http://fty.xxooo.cf/tv",
+            "name": "🚀2-饭太硬推荐"
+        },
+          {
+            "url": "http://xhztv.top/4k.json",
+            "name": "🚀3-小盒子4K"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀4-健康家用"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀5-王二小"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "name": "🚀6-FongMI线路"
+        },
+          {
+            "url": "https://gh-proxy.org/https:/raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀7-香雅情"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀8-巧计线路"
+        },
+         {
+            "url": "http://tv.nxog.top/m/",
+            "name": "🚀9-欧歌4K"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀10-高天流云js"
+        },
+        {
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀11-高天流云 XYQ"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀12-影探线路"
+        },
+        {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀13-南风"
+        },
+        {
+            "url": "https://www.wya6.cn/tv/yc.json",
+            "name": "🚀14-无意线路"
+        }
+    ]
 }
-
-
-
-
-
